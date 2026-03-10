@@ -5,7 +5,7 @@ Como eu escolhi fazer algo rápido, fiz o projeto todo em um único arquivo e n�
 ## Como testar
 ```
 # Preparar ambiente
-git clone https://github.com/silvaleal/adivinhe-o-numero-c++ desafiocpp
+git clone https://github.com/silvaleal/adivinhe-o-numero-cpp desafiocpp
 cd desafiocpp
 
 # Rodar projeto
